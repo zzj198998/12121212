@@ -13,7 +13,7 @@ import android.util.Log;
 import androidx.annotation.Nullable;
 import androidx.core.app.NotificationCompat;
 
-import com.egogame.vehiclehailer.R;
+import com.egogame.vehiclehailer.hmi.R;
 import com.egogame.vehiclehailer.VehicleHailerApp;
 
 /**
