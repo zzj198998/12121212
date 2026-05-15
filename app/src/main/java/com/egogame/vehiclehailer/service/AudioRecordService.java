@@ -15,7 +15,7 @@ import android.util.Log;
 
 import androidx.core.app.NotificationCompat;
 
-import com.egogame.vehiclehailer.R;
+import com.egogame.vehiclehailer.hmi.R;
 
 import java.io.File;
 import java.io.FileInputStream;
