@@ -19,7 +19,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
-import com.egogame.vehiclehailer.hmi.R;
+import com.egogame.vehiclehailer.R;
 import com.egogame.vehiclehailer.VehicleHailerApp;
 import com.egogame.vehiclehailer.audio.AudioRouter;
 import com.egogame.vehiclehailer.engine.ConfigLoader;
