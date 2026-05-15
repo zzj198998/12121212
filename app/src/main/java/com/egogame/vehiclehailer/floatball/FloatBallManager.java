@@ -14,7 +14,7 @@ import android.view.View;
 import android.view.WindowManager;
 import android.widget.ImageView;
 
-import com.egogame.vehiclehailer.R;
+import com.egogame.vehiclehailer.hmi.R;
 
 public class FloatBallManager {
     private static final String TAG = "FloatBallManager";
