@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.egogame.vehiclehailer">
+    package="com.egogame.vehiclehailer.hmi">
 
     <!-- 读取系统日志（CAN信号监听必需） -->
     <uses-permission android:name="android.permission.READ_LOGS" />
