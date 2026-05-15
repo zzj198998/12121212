@@ -9,7 +9,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.egogame.vehiclehailer.R;
+import com.egogame.vehiclehailer.hmi.R;
 import com.egogame.vehiclehailer.engine.VoicePlayer;
 import com.egogame.vehiclehailer.model.VoiceItem;
 
