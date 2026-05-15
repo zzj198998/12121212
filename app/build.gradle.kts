@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.egogame.vehiclehailer.hmi"
+    namespace = "com.egogame.vehiclehailer"
     compileSdk = 34
 
     defaultConfig {
