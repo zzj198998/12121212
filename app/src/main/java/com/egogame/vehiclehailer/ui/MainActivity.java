@@ -20,7 +20,7 @@ import androidx.core.content.ContextCompat;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 
-import com.egogame.vehiclehailer.R;
+import com.egogame.vehiclehailer.hmi.R;
 import com.egogame.vehiclehailer.VehicleHailerApp;
 import com.egogame.vehiclehailer.audio.AudioRouter;
 import com.egogame.vehiclehailer.engine.LogcatMonitor;
